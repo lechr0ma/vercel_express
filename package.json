@@ -1,0 +1,22 @@
+{
+  "name": "test_vercel",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000v\u0000e\u0000r\u0000c\u0000e\u0000l\u0000_\u0000e\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lechr0ma/vercel_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lechr0ma/vercel_express/issues"
+  },
+  "homepage": "https://github.com/lechr0ma/vercel_express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
