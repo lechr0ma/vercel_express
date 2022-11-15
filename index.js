@@ -5,7 +5,7 @@ const app = express();
 
 app.get("/", (req, res) => {
     console.log("/ get")
-    res.send("WOrks")
+    res.status(200).json({ error: null })
 });
 
 app.listen(5000, () => console.log("app working"));
