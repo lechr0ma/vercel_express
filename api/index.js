@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
     res.status(200).json({ error: null })
 });
 
-app.listen(5000, () => console.log("app working"));
+app.listen(3000, () => console.log("app working"));
 app.use("/test", testRouter);
 
 module.exports = app;
